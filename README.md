@@ -1,5 +1,8 @@
 ### Hi there, I'm Bruno Rondon, a Full Stack Enginner 👋
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rondon23)](https://github.com/rondon23)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-rondon-da-silva/)](https://www.linkedin.com/in/bruno-rondon-da-silva/)
+
 <!--
 **rondon23/rondon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
