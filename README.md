@@ -3,6 +3,11 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rondon23)](https://github.com/rondon23)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-rondon-da-silva/)](https://www.linkedin.com/in/bruno-rondon-da-silva/)
 
+
+### :punch: About
+> Graduated in Mechatronics Engineering, working in Web systems development for public management. Currently works as a .NET developer, working with systems with the MVC architecture, Razor, WebForms and Asp.Net core. It studies modern development technologies and tools such as Vue js, Angular and React and techniques for applying artificial intelligence and machine learning using Phyton, R and Scala for the analysis of large databases.
+
+
 <!--
 **rondon23/rondon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
