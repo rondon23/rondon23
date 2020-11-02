@@ -9,10 +9,10 @@
 
 
 ### :zap: Technologies & Skills
-* Front-end development using Angular, React, Vue, JavaScript, SASS, Less, CSS3, HTML5
-* Backend development using Node.js, PHP, ASP.NET C#
-* Mobile application development using React Native and Flutter
-* Creating scalable cloud architecture using AWS and Azure
+* Front-end development using **Angular, React, Vue, JavaScript, SASS, Less, CSS3, HTML5**
+* Backend development using **Node.js, PHP, ASP.NET C#**
+* Mobile application development using **React Native and Flutter**
+* Creating scalable cloud architecture using **AWS** and **Azure**
 <!--
 **rondon23/rondon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
