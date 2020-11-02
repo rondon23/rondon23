@@ -13,6 +13,12 @@
 * Backend development using **Node.js, PHP, ASP.NET C#**
 * Mobile application development using **React Native** and **Flutter**
 * Creating scalable cloud architecture using **AWS** and **Azure**
+
+### :mortar_board: Education
+* Mechatronics Engineering (2019) - UCDB - Catholic University Dom Bosco
+* Post Graduation Diploma (2020 - 2021) - PUC Minas - Pontifical Catholic University of Minas Gerais
+* Master in Applied Computing (2020 - Present) - UFMS - Federal University of Mato Grosso do Sul
+
 <!--
 **rondon23/rondon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
