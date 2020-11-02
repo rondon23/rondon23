@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Bruno Rondon, a Full Stack Enginner 👋
 
 <!--
 **rondon23/rondon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
