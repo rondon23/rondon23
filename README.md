@@ -16,7 +16,7 @@
 
 ### :mortar_board: Education
 * Mechatronics Engineering (2019) - UCDB - Catholic University Dom Bosco
-* Post Graduation Diploma (2020 - 2021) - PUC Minas - Pontifical Catholic University of Minas Gerais
+* Post Graduation Diploma in Artificial Intelligence and Machine Learning (2020 - 2021) - PUC Minas - Pontifical Catholic University of Minas Gerais
 * Master in Applied Computing (2020 - Present) - UFMS - Federal University of Mato Grosso do Sul
 
 <!--
