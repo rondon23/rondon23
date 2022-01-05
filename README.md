@@ -5,7 +5,7 @@
 
 
 ### :punch: About
-> Graduated in Mechatronics Engineering, working in Web systems development for public management. Currently works as a .NET developer, working with systems with the MVC architecture, Razor, WebForms and Asp.Net core. It studies modern development technologies and tools such as Vue js, Angular and React and techniques for applying artificial intelligence and machine learning using Phyton, R and Scala for the analysis of large databases.
+> Graduated in Mechatronics Engineering, working in Web systems development. Currently works as a .NET developer, working with systems with the MVC architecture, Razor, WebForms and Asp.Net core. It studies modern development technologies and tools such as Vue js, Angular and React and techniques for applying artificial intelligence and machine learning using Phyton, R and Scala for the analysis of large databases.
 
 
 ### :zap: Technologies & Skills
