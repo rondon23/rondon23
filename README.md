@@ -5,7 +5,7 @@
 
 
 ### :punch: About
-> Graduated in Control Systems Engineering, working in Web systems development. Currently works as a Golang developer, working with systems with the hexagonal architecture, RabbitMQ, GRPC and Google Cloud Plataform. Study modern development technologies and tools such as Vue js, Angular and React and techniques for applying artificial intelligence and machine learning using Phyton, R and Scala for the analysis of large databases.
+> Graduated in Control Systems Engineering, working in web systems development. Currently works as a Golang developer, in systems with the hexagonal architecture, RabbitMQ, GRPC and Google Cloud Plataform. Study modern development technologies and tools such as Vue js, Angular and React and techniques for applying artificial intelligence and machine learning using Phyton, R and Scala for the analysis of large databases.
 
 
 ### :zap: Technologies & Skills
