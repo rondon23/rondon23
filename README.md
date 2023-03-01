@@ -4,6 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-rondon-da-silva/)](https://www.linkedin.com/in/bruno-rondon-da-silva/)
 
 
+[![Bruno Rondon GitHub stats](https://github-readme-stats.vercel.app/api?username=rondon23)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### :punch: About
 > Graduated in Mechatronics Engineering, working in web systems development. Currently works as a Golang developer, in systems with the hexagonal architecture, RabbitMQ, GRPC and Google Cloud Plataform. Study modern development technologies and tools such as Vue js, Angular and React.
 
