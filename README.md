@@ -10,7 +10,7 @@
 
 
 ### :punch: About
-> Graduated in Mechatronics Engineering, working in web systems development. Currently works as a Golang developer, in systems with the hexagonal architecture, RabbitMQ, GRPC and Google Cloud Plataform. Study modern development technologies and tools such as Vue js, Angular and React.
+> Graduated in Mechatronics Engineering, have experience in web systems development. Currently works as a Golang developer, in systems with the hexagonal architecture, RabbitMQ, GRPC and Google Cloud Plataform. Study modern development technologies and tools such as Vue js, Angular and React.
 
 
 ### :zap: Technologies & Skills
