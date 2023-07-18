@@ -6,8 +6,6 @@
 
 [![Bruno Rondon GitHub stats](https://github-readme-stats.vercel.app/api?username=rondon23&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rondon23&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### :punch: About
 > Graduated in Mechatronics Engineering, have experience in web systems development. Currently works as a Golang developer, in systems with the hexagonal architecture, RabbitMQ, GRPC and Google Cloud Plataform. Study modern development technologies and tools such as Vue js, Angular and React.
