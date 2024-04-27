@@ -13,12 +13,13 @@
 
 ### :zap: Technologies & Skills
 * Front-end development using **Angular, React, Vue, JavaScript, SASS, Less, CSS3, HTML5**
-* Backend development using **Python, Golang, ASP.NET C#**
+* Mobile development using React Native
+* Backend development using **Golang, ASP.NET C#**
 * Creating scalable cloud architecture using **AWS** and **GCP**
 
 ### :mortar_board: Education
 * BSc. Mechatronics Engineering (2019) - UCDB - Catholic University Dom Bosco
-* Graduate Degree in Artificial Intelligence and Machine Learning (2020 - 2021) - PUC Minas - Pontifical Catholic University of Minas Gerais
+* Graduate Degree in Sofware Engineering (2024) - Anhanguera Educacional
 
 <!--
 **rondon23/rondon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
