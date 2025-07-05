@@ -7,10 +7,7 @@
 [![Bruno Rondon GitHub stats](https://github-readme-stats.vercel.app/api?username=rondon23&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :punch: About
-> Mechatronics Engineer with experience in web system development. Currently working as a Full Stack .NET Developer, building scalable applications using Hexagonal Architecture, RabbitMQ, gRPC, and Google Cloud Platform. Passionate about modern development technologies, I continuously study and work with Angular, React, and Vue.js.
-
-Seeking opportunities as a Software Developer in Australia to contribute to innovative projects and enhance my expertise in cloud-based and high-performance systems..
-
+> As a software developer with a Mechatronics Engineering background and a postgraduate degree in Software Engineering, I bring 6 years of experience in .NET and Golang development, complemented by expertise in front-end frameworks like Angular and DevOps practices. I specialize in designing scalable solutions, analyzing user requirements, and implementing efficient CI/CD pipelines using Azure DevOps and GitHub Actions. My career spans projects ranging from small applications to large-scale enterprise systems, and I am committed to delivering software that meets business needs and drives success.If you're looking for a skilled developer proficient in .NET, Golang, and DevOps, I would be happy to connect.
 
 ### :zap: Technologies & Skills
 * Front-end development using **Angular, React, Vue, JavaScript, SASS, Less, CSS3, HTML5**
