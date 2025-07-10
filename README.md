@@ -6,6 +6,73 @@
 
 [![Bruno Rondon GitHub stats](https://github-readme-stats.vercel.app/api?username=rondon23&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<table align="center">
+    <tbody>
+        <tr align="center">
+            <td width="25%">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="48" alt="React"><br>
+                <strong>React 19</strong><br>
+                Modern UI Library
+            </td>
+            <td width="25%">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="48" alt="TypeScript"><br>
+                <strong>TypeScript</strong><br>
+                Type-safe Dev
+            </td>
+            <td width="25%">
+                <img src="https://static-00.iconduck.com/assets.00/react-router-icon-1024x559-m9r1k9t4.png" height="48" alt="React Router"><br>
+                <strong>React Router v7</strong><br>
+                Single Page Apps
+            </td>
+            <td width="25%">
+                <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" height="48" alt="TailwindCSS"><br>
+                <strong>TailwindCSS v4</strong><br>
+                Utility-first CSS
+            </td>
+        </tr>
+        <tr align="center">
+            <td width="25%">
+                <img src="https://www.pngfind.com/pngs/m/493-4934627_storybook-icon-ddf01037-storybook-js-hd-png-download.png" height="48" alt="Storybook"><br>
+                <strong>Storybook</strong><br>
+                Component Dev
+            </td>
+            <td width="25%">
+                <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" height="48" alt="Vite"><br>
+                <strong>Vite</strong><br>
+                Frontend Tooling
+            </td>
+            <td width="25%">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="48" alt="Go"><br>
+                <strong>Go 1.24</strong><br>
+                Backend Services
+            </td>
+            <td width="25%">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL"><br>
+                <strong>PostgreSQL 17</strong><br>
+                Reliable Database
+            </td>
+        </tr>
+        <tr align="center">
+            <td width="25%">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="48" alt="Redis"><br>
+                <strong>Redis</strong><br>
+                In-memory Caching
+            </td>
+            <td width="25%">
+                <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" height="48" alt="OpenTelemetry"><br>
+                <strong>OpenTelemetry</strong><br>
+                Observability
+            </td>
+            <td width="25%">
+                <img src="https://avatars.githubusercontent.com/u/136755925?v=4" height="48" alt="River"><br>
+                <strong>River</strong><br>
+                Background Worker
+            </td>
+            <td width="25%"></td>
+        </tr>
+    </tbody>
+</table>
+
 ### :punch: About
 > As a software developer with a Mechatronics Engineering background and a postgraduate degree in Software Engineering, I bring 6 years of experience in .NET and Golang development, complemented by expertise in front-end frameworks like Angular and DevOps practices. I specialize in designing scalable solutions, analyzing user requirements, and implementing efficient CI/CD pipelines using Azure DevOps and GitHub Actions. My career spans projects ranging from small applications to large-scale enterprise systems, and I am committed to delivering software that meets business needs and drives success.If you're looking for a skilled developer proficient in .NET, Golang, and DevOps, I would be happy to connect.
 
