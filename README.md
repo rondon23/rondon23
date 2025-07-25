@@ -20,71 +20,76 @@
 * Graduate Degree in Sofware Engineering (2024) - Anhanguera Educacional
 
 <table align="center">
-    <tbody>
-        <tr align="center">
-            <td width="25%">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="48" alt="React"><br>
-                <strong>React 19</strong><br>
-                Modern UI Library
-            </td>
-            <td width="25%">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="48" alt="TypeScript"><br>
-                <strong>TypeScript</strong><br>
-                Type-safe Dev
-            </td>
-            <td width="25%">
-                <img src="https://static-00.iconduck.com/assets.00/react-router-icon-1024x559-m9r1k9t4.png" height="48" alt="React Router"><br>
-                <strong>React Router v7</strong><br>
-                Single Page Apps
-            </td>
-            <td width="25%">
-                <img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" height="48" alt="TailwindCSS"><br>
-                <strong>TailwindCSS v4</strong><br>
-                Utility-first CSS
-            </td>
-        </tr>
-        <tr align="center">
-            <td width="25%">
-                <img src="https://www.pngfind.com/pngs/m/493-4934627_storybook-icon-ddf01037-storybook-js-hd-png-download.png" height="48" alt="Storybook"><br>
-                <strong>Storybook</strong><br>
-                Component Dev
-            </td>
-            <td width="25%">
-                <img src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg" height="48" alt="Vite"><br>
-                <strong>Vite</strong><br>
-                Frontend Tooling
-            </td>
-            <td width="25%">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="48" alt="Go"><br>
-                <strong>Go 1.24</strong><br>
-                Backend Services
-            </td>
-            <td width="25%">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL"><br>
-                <strong>PostgreSQL 17</strong><br>
-                Reliable Database
-            </td>
-        </tr>
-        <tr align="center">
-            <td width="25%">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="48" alt="Redis"><br>
-                <strong>Redis</strong><br>
-                In-memory Caching
-            </td>
-            <td width="25%">
-                <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" height="48" alt="OpenTelemetry"><br>
-                <strong>OpenTelemetry</strong><br>
-                Observability
-            </td>
-            <td width="25%">
-                <img src="https://avatars.githubusercontent.com/u/136755925?v=4" height="48" alt="River"><br>
-                <strong>River</strong><br>
-                Background Worker
-            </td>
-            <td width="25%"></td>
-        </tr>
-    </tbody>
+  <tbody>
+    <tr align="center">
+      <td width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="48" alt="Go"><br>
+        <strong>Go</strong><br>
+        Backend Services
+      </td>
+      <td width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL"><br>
+        <strong>PostgreSQL</strong><br>
+        SQL Database
+      </td>
+      <td width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="48" alt="Redis"><br>
+        <strong>Redis</strong><br>
+        Caching & Queues
+      </td>
+      <td width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="48" alt="Docker"><br>
+        <strong>Docker</strong><br>
+        Containerization
+      </td>
+    </tr>
+    <tr align="center">
+      <td width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="48" alt="Kubernetes"><br>
+        <strong>Kubernetes</strong><br>
+        Orchestration
+      </td>
+      <td width="25%">
+        <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" height="48" alt="GitHub Actions"><br>
+        <strong>GitHub Actions</strong><br>
+        CI/CD Pipelines
+      </td>
+      <td width="25%">
+        <img src="https://grpc.io/img/logos/grpc-icon-color.png" height="48" alt="gRPC"><br>
+        <strong>gRPC</strong><br>
+        RPC APIs
+      </td>
+      <td width="25%">
+        <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWG-logo-clr.png" height="48" alt="Swagger"><br>
+        <strong>Swagger</strong><br>
+        API Docs
+      </td>
+    </tr>
+    <tr align="center">
+      <td width="25%">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" height="48" alt=".NET"><br>
+        <strong>.NET / C#</strong><br>
+        Enterprise Systems
+      </td>
+      <td width="25%">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="48" alt="Angular"><br>
+        <strong>Angular</strong><br>
+        Frontend Framework
+      </td>
+      <td width="25%">
+        <img src="https://knockoutjs.com/img/ko-logo.png" height="48" alt="Knockout.js"><br>
+        <strong>Knockout.js</strong><br>
+        MVVM Bindings
+      </td>
+      <td width="25%">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Json_web_token_logo.svg/512px-Json_web_token_logo.svg.png" height="48" alt="JWT"><br>
+        <strong>JWT / PASETO</strong><br>
+        Token Auth
+      </td>
+    </tr>
+  </tbody>
 </table>
+
 
 <!--
 **rondon23/rondon23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
