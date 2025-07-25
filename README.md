@@ -60,9 +60,9 @@
         RPC APIs
       </td>
       <td width="25%">
-        <img src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWG-logo-clr.png" height="48" alt="Swagger"><br>
-        <strong>Swagger</strong><br>
-        API Docs
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="48" alt="React"><br>
+        <strong>React</strong><br>
+        Frontend UI
       </td>
     </tr>
     <tr align="center">
@@ -82,13 +82,14 @@
         MVVM Bindings
       </td>
       <td width="25%">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Json_web_token_logo.svg/512px-Json_web_token_logo.svg.png" height="48" alt="JWT"><br>
-        <strong>JWT / PASETO</strong><br>
-        Token Auth
+        <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" height="48" alt="AWS"><br>
+        <strong>AWS</strong><br>
+        Cloud Infrastructure
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 <!--
