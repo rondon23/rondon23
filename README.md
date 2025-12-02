@@ -3,8 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rondon23)](https://github.com/rondon23)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-rondon-da-silva/)](https://www.linkedin.com/in/bruno-rondon-da-silva/)
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=rondon23&show_icons=true&theme=radical)
-
 
 ### :punch: About
 > As a software developer with a Mechatronics Engineering background and a postgraduate degree in Software Engineering, I bring 7 years of experience in .NET and Golang development, complemented by expertise in front-end frameworks like Angular, React and DevOps practices. I specialize in designing scalable solutions, analyzing user requirements, and implementing efficient CI/CD pipelines using Azure DevOps and GitHub Actions. My career spans projects ranging from small applications to large-scale enterprise systems, and I am committed to delivering software that meets business needs and drives success.If you're looking for a skilled developer proficient in .NET, Golang, and DevOps, I would be happy to connect.
