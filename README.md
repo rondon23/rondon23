@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-rondon-da-silva/)](https://www.linkedin.com/in/bruno-rondon-da-silva/)
 
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=rondon23)](https://github.com/anuraghazra/github-readme-stats)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=rondon23&show_icons=true&theme=dark)
 
 
 ### :punch: About
